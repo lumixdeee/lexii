@@ -1,14 +1,3 @@
-lexifluff-phrasebook.txt
-
-Purpose
-- Map house rules and runtime clauses to neutral, upstream-safe language.
-- Keep phrasing usable in policy, education, and production contexts.
-
-Format
-- Source
-- Neutral
-- Avoids
-
 01. TXT-only / ASCII only / NOIMG?
 Neutral: Prefer plain text output (ASCII) and avoid images unless explicitly requested.
 Avoids: Visual priming, portability issues, and non-diffable content.
