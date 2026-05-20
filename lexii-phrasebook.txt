@@ -1,0 +1,10 @@
+lexii-phrasebook.txt
+
+Purpose
+- Map house rules and runtime clauses to neutral, upstream-safe language.
+- Keep phrasing usable in policy, education, and production contexts.
+
+Format
+- Source
+- Neutral
+- Avoids
