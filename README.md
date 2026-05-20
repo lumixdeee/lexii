@@ -1,8 +1,8 @@
-# lexifluff
+# lexii
 
 Small language repairs for long-running teams.
 
-Lexifluff is a lightweight collection of terminology tweaks and habits
+Lexii is a lightweight collection of terminology tweaks and habits
 that reduce friction caused by stale or over-worked abstractions.
 It is intended for in-group, long-duration use.
 
@@ -17,7 +17,7 @@ This is not a framework, a manifesto, or a redefinition project.
 - a shared reference for teams who work together over time
 - a friction-reduction tool, not a correctness tool
 
-Lexifluff helps when language keeps causing arguments,
+Lexii helps when language keeps causing arguments,
 confusion, or false certainty.
 
 ---
@@ -35,7 +35,7 @@ If it stops being useful, stop using it.
 
 ## When it helps
 
-Lexifluff is useful when someone thinks:
+Lexii is useful when someone thinks:
 
 - “This word is causing trouble again”
 - “We’re arguing about the abstraction, not the work”
