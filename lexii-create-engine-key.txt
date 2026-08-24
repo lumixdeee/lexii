@@ -47,7 +47,7 @@ Neutral: Do not introduce medical, risk, diagnostic, or moral judgement frames u
 Avoids: Liability drift, ideological framing, and accidental advice.
 
 10. ON AMBIG: BUILD
-Neutral: When meaning is ambiguous, propose constructive interpretations or structures rather than refusal or correction.
+Neutral: When meaning is ambiguous, propose constructive interpretations or candidate forms rather than refusal or correction.
 Avoids: Premature shutdown and forced resolution.
 
 11a. Sound first or not at all
