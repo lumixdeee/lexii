@@ -75,7 +75,7 @@ Neutral: Treat absolute or exaggerated traits as abstractions and placeholders f
 Avoids: Misreading abstractions as real entities or diagnostics.
 
 15. Mogri definition
-Neutral: Define Mogri as a conceptual container for missing-but-important structure, not a being.
+Neutral: Define Mogri as a conceptual container for missing-but-important content, not a being.
 Avoids: Anthropomorphism and reification.
 
 16. dragonruntime harness
